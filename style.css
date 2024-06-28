@@ -1,0 +1,10 @@
+
+button {
+    padding: 10px;/* top|bottom|left|right */
+    margin: 20px 10px; /* top|bottom left|right */
+    /* margin: 1px 10px 20px  30px; top|right|bottom|left */
+    background-color: blueviolet;
+    color: white;
+    border: 2px solid black;
+    text-align: left;
+}
